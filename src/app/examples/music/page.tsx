@@ -16,10 +16,10 @@ import { PlusCircle } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 
-export const metadata: Metadata = {
-  title: "Music App",
-  description: "Example music app using the components.",
-}
+// export const metadata: Metadata = {
+//   title: "Music App",
+//   description: "Example music app using the components.",
+// }
 
 export default function MusicPage() {
   return (
